@@ -1,0 +1,27 @@
+img {
+	max-width: 100%;
+	min-height: 300px;
+	max-height: 300px;
+	margin: auto;
+}
+
+header{	
+	padding: 2%;
+	background-color: #E0E0E0;
+	margin-bottom: 1%;
+}
+header>h1{
+	margin: 0;
+}
+
+.active{
+	background-color: #eee;
+}
+
+.category-thumbnail:hover, .animal-thumbnail:hover{
+	cursor:pointer;
+}
+
+.carousel{
+	margin-bottom: 1em;
+}
